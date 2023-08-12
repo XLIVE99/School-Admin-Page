@@ -52,6 +52,6 @@ Every page has a left sidebar to navigate through the pages. In the top right co
     - All Students
 
 ### Disclaimer
-I just added PHP over the website template, I don't remember the license of the template, use it with caution!
-All the names used in database is made up turkish names except my name. It is possible that there is a person with the same name.
-I translated this project to english from turkish in order to upload to Github. Unfortunately, I didn't translated database, therefore all the names in the database is turkish.
+- I just added PHP over the website template, I don't remember the license of the template, use it with caution!
+- All the names used in database is made up turkish names except my name. It is possible that there is a person with the same name.
+- I translated this project to english from turkish in order to upload to Github. Unfortunately, I didn't translated database, therefore all the names in the database is turkish.
